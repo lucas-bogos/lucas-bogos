@@ -1,5 +1,5 @@
 <header>
-  <h1 align="left">Hello <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, welcome here!</h1>
+  <h1 align="left">Hello, welcome here!</h1>
   <ul>
     <li>👑 Me chamo Lucas, mas pode me chamar de Bogos</li>
     <li>🔭 Sou Full Stack Developer</li>
