@@ -20,6 +20,8 @@
   <ul>
     <li>👑 Me chamo Lucas, mas pode me chamar de Bogos</li>
     <li>🔭 Software Engineer</li>
-    <li>🌐 Acesse: <a href="https://lucas-bogos.vercel.app/">lucas-bogos.vercel.app</a></li>
+    <li>🌐 Portfólio: <a href="https://lucas-bogos.vercel.app/" target="_blank">lucas-bogos.vercel.app</a></li>
+    <li>📜 Meu Blog: <a href="https://lucasbogos.com/" target="_blank">lucasbogos.com</a></li>
+    <li>🔴 IT Innovation: <a href="https://itinnovation.com.br/" target="_blank">itinnovation.com.br</a></li>
   </ul>
 </header>
